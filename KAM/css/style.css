@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Bungee+Shade&family=Monoton&family=Montserrat:wght@100;200&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/btn-blue.css");
+@import url("components/banner.css");
+@import url("components/logo.css");
+@import url("components/card.css");
+@import url("components/typeform-widget.css");
+
+body{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+}
+h1{
+	font-family: 'Bungee Shade', cursive;
+	size: 40px
+	width: 900px;
+	margin: 50px auto;
+	padding: 0px 0px 0px 300px;
+}
+h2{
+	font-family: 'Anton', sans-serif;
+	font-size: 25px;
+	font-weight: lighter;
+	width: 700px;
+	margin: 50px auto;
+}
+p{
+	font-family: 'Montserrat', sans-serif;
+	width: 700px;
+	margin: 50px auto;
+}
+a{
+	text-decoration: none;
+	font-weight:bolder;
+	width: 700px;
+	margin: 50px auto;
+}
